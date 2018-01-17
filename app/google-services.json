@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "128541075576",
+    "firebase_url": "https://simpleinsta-c3a8a.firebaseio.com",
+    "project_id": "simpleinsta-c3a8a",
+    "storage_bucket": "simpleinsta-c3a8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128541075576:android:bb832aa65e3ec495",
+        "android_client_info": {
+          "package_name": "com.michalenko.olga.simpleinsta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128541075576-ocev2vrq4qtsa7uphv3ngia2hrmhndcq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.michalenko.olga.simpleinsta",
+            "certificate_hash": "51580282f3bd314db981c366fe56e99c402923a6"
+          }
+        },
+        {
+          "client_id": "128541075576-518grkcrerbqh7k9pgsn6797plh0o59c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwQTHCT9UTerA8449CJehNi5kRnIwH1ec"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128541075576-518grkcrerbqh7k9pgsn6797plh0o59c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
